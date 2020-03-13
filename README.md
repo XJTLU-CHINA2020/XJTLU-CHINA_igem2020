@@ -1,2 +1,3 @@
 # XJTLU-CHINA_igem2020
 iGEM2020  XJTLU-CHINA
+Modeling Group
